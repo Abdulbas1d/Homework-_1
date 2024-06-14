@@ -1,13 +1,13 @@
 // 1-Misol
 
-// function processWords(words) {
+// function someWords(words) {
 //     return words
 //         .filter(word => word.length >= 5)
 //         .map(word => word.toUpperCase());
 // }
 
 // const wordsArray = ['apple', 'pear', 'banana', 'kiwi', 'grape', 'melon'];
-// const result = processWords(wordsArray);
+// const result = someWords(wordsArray);
 // console.log(result);
 
 
@@ -22,10 +22,10 @@
 // }
 
 // const studentsArray = [
-//     { name: 'Alice', age: 19 },
-//     { name: 'Bob', age: 22 },
-//     { name: 'Charlie', age: 20 },
-//     { name: 'David', age: 23 }
+//     { name: 'Shokir', age: 40 },
+//     { name: 'Bobo', age: 22 },
+//     { name: 'Xurshid', age: 28 },
+//     { name: 'Davron', age: 23 }
 // ];
 
 // const result = findStudentOver20(studentsArray);
@@ -37,14 +37,14 @@
 
 // 3-Misol
 
-// function totalHighPricedProducts(prices) {
+// function highProducts(prices) {
 //     return prices
 //         .filter(price => price > 100)
 //         .reduce((total, price) => total + price, 0);
 // }
 
-// const productPrices = [50, 150, 200, 90, 120, 80, 180];
-// const total = totalHighPricedProducts(productPrices);
+// const productPrices = [50, 150, 200, 90, 100, 80, 180];
+// const total = highProducts(productPrices);
 // console.log(total);
 
 
