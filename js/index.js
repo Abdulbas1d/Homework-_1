@@ -80,7 +80,7 @@
 
 // 5-Misol
 
-// function calculateSquares(arr) {
+// function calculate(arr) {
 //     return arr.map(num => num * num);
 // }
 // function logElements(arr) {
@@ -88,7 +88,7 @@
 // }
 // const numbers = [1, 2, 3, 4, 5];
 
-// const squaredNumbers = calculateSquares(numbers);
+// const squaredNumbers = calculate(numbers);
 
 // logElements(squaredNumbers);
 
@@ -118,11 +118,11 @@
 // 7-Misol
 
 // const students = [
-//     { name: 'Alice', age: 20, grade: 85 },
-//     { name: 'Bob', age: 22, grade: 75 },
-//     { name: 'Charlie', age: 23, grade: 95 },
-//     { name: 'David', age: 21, grade: 60 },
-//     { name: 'Eve', age: 24, grade: 82 }
+//     { name: 'Alisher', age: 20, grade: 85 },
+//     { name: 'Bobo', age: 22, grade: 75 },
+//     { name: 'Charos', age: 23, grade: 95 },
+//     { name: 'Davronbek', age: 21, grade: 60 },
+//     { name: 'Ilhom', age: 24, grade: 82 }
 // ];
 
 // function getFirstStudentWithAtLeast80(students) {
