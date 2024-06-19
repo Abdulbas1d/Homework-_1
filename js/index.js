@@ -16,7 +16,7 @@
 
 // 2-Misol
 
-// function findStudentOver20(students) {
+// function findStudent20(students) {
 //     const student = students.find(student => student.age > 20);
 //     return student ? student.name.toUpperCase() : null;
 // }
@@ -66,13 +66,13 @@
 //     }
 // }
 
-// const numbers1 = [10, 50, 120, 30, 5];
-// const numbers2 = [10, -50, 60, 30, 5];
-// const numbers3 = [10, 50, 60, 30, 5];
+// const number1 = [10, 50, 120, 30, 5];
+// const number2 = [10, -50, 60, 30, 5];
+// const number3 = [10, 50, 60, 30, 5];
 
-// console.log(checkNumbers(numbers1));
-// console.log(checkNumbers(numbers2));
-// console.log(checkNumbers(numbers3));
+// console.log(checkNumbers(number1));
+// console.log(checkNumbers(number2));
+// console.log(checkNumbers(number3));
 
 
 
@@ -86,11 +86,11 @@
 // function logElements(arr) {
 //     arr.forEach(num => console.log(num));
 // }
-// const numbers = [1, 2, 3, 4, 5];
+// const number = [1, 2, 3, 4, 5];
 
-// const squaredNumbers = calculate(numbers);
+// const numbers = calculate(number);
 
-// logElements(squaredNumbers);
+// logElements(numbers);
 
 
 
@@ -98,7 +98,7 @@
 
 // 6-Misol
 
-// function calculateNewTotalSalary(salaries) {
+// function newTotalSalary(salaries) {
 //     let filteredSalaries = salaries.filter(salary => salary > 2000);
 
 //     let increasedSalaries = filteredSalaries.map(salary => salary * 0.10);
@@ -109,7 +109,7 @@
 // }
 
 // let employeeSalaries = [1500, 2500, 3000, 1800, 2200];
-// console.log(calculateNewTotalSalary(employeeSalaries));
+// console.log(newTotalSalary(employeeSalaries));
 
 
 
@@ -134,7 +134,7 @@
 //     }
 // }
 
-// function getNamesOfStudentsAbove80(students) {
+// function getNamesOfStudents80(students) {
 //     return students
 //         .filter(student => student.grade > 80)
 //         .map(student => student.name.toUpperCase());
@@ -143,7 +143,7 @@
 // const firstStudent = getFirstStudentWithAtLeast80(students);
 // console.log(firstStudent);
 
-// const namesAbove80 = getNamesOfStudentsAbove80(students);
+// const namesAbove80 = getNamesOfStudents80(students);
 // console.log(namesAbove80);
 
 
